@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Capital of France?",
+    "options": ["Paris", "Berlin", "Rome", "London"],
+    "correct": "Paris"
+  },
+  {
+    "question": "Red Planet?",
+    "options": ["Jupiter", "Venus", "Mars", "Saturn"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Which language is known as the backbone of web development?",
+    "options": ["JavaScript", "Python", "C++", "Ruby"],
+    "correct": "JavaScript"
+  },
+  {
+    "question": "Which data structure uses FIFO (First In First Out) principle?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "correct": "Queue"
+  },
+  {
+    "question": "Which sorting algorithm has the best average time complexity?",
+    "options": ["Merge Sort", "Bubble Sort", "Insertion Sort", "Selection Sort"],
+    "correct": "Merge Sort"
+  },
+  {
+    "question": "Which protocol is used to send emails?",
+    "options": ["SMTP", "FTP", "HTTP", "IMAP"],
+    "correct": "SMTP"
+  },
+  {
+    "question": "Who is known as the father of computer science?",
+    "options": ["Charles Babbage", "Alan Turing", "Dennis Ritchie", "Tim Berners-Lee"],
+    "correct": "Alan Turing"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+    "correct": "MongoDB"
+  },
+  {
+    "question": "Which method is used to find the length of a string in JavaScript?",
+    "options": [".length", ".size()", ".count()", ".getLength()"],
+    "correct": ".length"
+  },
+  {
+    "question": "Which is not an object-oriented programming language?",
+    "options": ["C", "Java", "Python", "C++"],
+    "correct": "C"
+  },
+  {
+    "question": "Which one is a front-end framework?",
+    "options": ["React", "Node.js", "Django", "Flask"],
+    "correct": "React"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Standard Query Language"],
+    "correct": "Structured Query Language"
+  },  
+  {
+    "question": "2 + 2?",
+    "options": ["6", "3", "5", "4"],
+    "correct": "4"
+  },
+  {
+    "question": "Who wrote 'Harry Potter'?",
+    "options": ["Tolkien", "Christie", "J.K. Rowling", "Shakespeare"],
+    "correct": "J.K. Rowling"
+  },
+  {
+    "question": "Largest ocean on Earth?",
+    "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+    "correct": "Pacific"
+  },
+  {
+    "question": "Fastest land animal?",
+    "options": ["Kangaroo", "Lion", "Horse", "Cheetah"],
+    "correct": "Cheetah"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": ["8", "6", "12", "10"],
+    "correct": "8"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Mars", "Earth", "Venus", "Mercury"],
+    "correct": "Mercury"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": ["Git", "Docker", "Jenkins", "Kubernetes"],
+    "correct": "Git"
+  },
+  {
+    "question": "Which data structure is used for implementing recursion?",
+    "options": ["Stack", "Queue", "Array", "Linked List"],
+    "correct": "Stack"
+  },
+  {
+    "question": "Which layer in the OSI model is responsible for routing?",
+    "options": ["Network Layer", "Data Link Layer", "Transport Layer", "Session Layer"],
+    "correct": "Network Layer"
+  },
+  {
+    "question": "Which of the following is used for Android app development?",
+    "options": ["Kotlin", "Swift", "PHP", "Ruby"],
+    "correct": "Kotlin"
+  },
+  {
+    "question": "Which keyword is used to create a class in Java?",
+    "options": ["class", "struct", "object", "new"],
+    "correct": "class"
+  },
+  {
+    "question": "Which is a dynamically typed programming language?",
+    "options": ["Python", "Java", "C#", "C++"],
+    "correct": "Python"
+  },
+  {
+    "question": "Which sorting algorithm is the fastest in the average case?",
+    "options": ["Quick Sort", "Bubble Sort", "Selection Sort", "Insertion Sort"],
+    "correct": "Quick Sort"
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": ["<a>", "<link>", "<href>", "<nav>"],
+    "correct": "<a>"
+  },
+  {
+    "question": "Which of the following is a cloud computing platform?",
+    "options": ["AWS", "MySQL", "Oracle", "Docker"],
+    "correct": "AWS"
+  },
+  {
+    "question": "Which protocol is used for secure communication over the internet?",
+    "options": ["HTTPS", "FTP", "SMTP", "HTTP"],
+    "correct": "HTTPS"
+  },
+  {
+    "question": "Which programming paradigm is based on the concept of 'objects'?",
+    "options": ["Object-Oriented Programming", "Functional Programming", "Procedural Programming", "Logical Programming"],
+    "correct": "Object-Oriented Programming"
+  },
+  {
+    "question": "Which of the following is used for styling web pages?",
+    "options": ["CSS", "HTML", "JavaScript", "PHP"],
+    "correct": "CSS"
+  },
+  {
+    "question": "Which algorithm is commonly used for shortest path finding?",
+    "options": ["Dijkstra's Algorithm", "Bubble Sort", "Merge Sort", "Depth-First Search"],
+    "correct": "Dijkstra's Algorithm"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["#", "//", "/*", "<!--"],
+    "correct": "#"
+  },
+  {
+    "question": "Which protocol is used to transfer files between computers?",
+    "options": ["FTP", "SMTP", "HTTP", "TCP"],
+    "correct": "FTP"
+  },
+  {
+    "question": "Which type of database is MySQL?",
+    "options": ["Relational Database", "NoSQL Database", "Graph Database", "Document Database"],
+    "correct": "Relational Database"
+  },
+  {
+    "question": "Which of the following is used to manage dependencies in Node.js?",
+    "options": ["npm", "pip", "composer", "gradle"],
+    "correct": "npm"
+  },
+  {
+    "question": "Which design pattern is used to restrict the instantiation of a class to one object?",
+    "options": ["Singleton", "Factory", "Observer", "Decorator"],
+    "correct": "Singleton"
+  },
+  {
+    "question": "Which data structure is used for implementing LRU cache?",
+    "options": ["HashMap + Doubly Linked List", "Stack", "Queue", "Binary Tree"],
+    "correct": "HashMap + Doubly Linked List"
+  },
+  {
+    "question": "Which of the following is a backend framework?",
+    "options": ["Django", "React", "Vue.js", "Bootstrap"],
+    "correct": "Django"
+  },
+  {
+    "question": "Which of the following is a markup language?",
+    "options": ["HTML", "Python", "Java", "C#"],
+    "correct": "HTML"
+  },
+  {
+    "question": "Which method is used to parse JSON in JavaScript?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.load()", "JSON.read()"],
+    "correct": "JSON.parse()"
+  },
+  {
+    "question": "Which one is a relational database management system?",
+    "options": ["PostgreSQL", "MongoDB", "Redis", "Cassandra"],
+    "correct": "PostgreSQL"
+  },
+  {
+    "question": "Which sorting algorithm is the most efficient for nearly sorted arrays?",
+    "options": ["Insertion Sort", "Quick Sort", "Merge Sort", "Bubble Sort"],
+    "correct": "Insertion Sort"
+  },
+  {
+    "question": "Which of the following is a statically typed language?",
+    "options": ["C++", "Python", "JavaScript", "Ruby"],
+    "correct": "C++"
+  },
+  {
+    "question": "Which operating system is open-source?",
+    "options": ["Linux", "Windows", "macOS", "iOS"],
+    "correct": "Linux"
+  },
+  {
+    "question": "Which data structure is used in Breadth-First Search?",
+    "options": ["Queue", "Stack", "Heap", "Tree"],
+    "correct": "Queue"
+  },
+  {
+    "question": "Which technology is used for virtualization?",
+    "options": ["Docker", "MySQL", "Angular", "Nginx"],
+    "correct": "Docker"
+  },
+  {
+    "question": "Which language is primarily used for iOS app development?",
+    "options": ["Swift", "Java", "Kotlin", "C#"],
+    "correct": "Swift"
+  },
+  {
+    "question": "Which HTTP status code indicates a successful request?",
+    "options": ["200", "404", "500", "403"],
+    "correct": "200"
+  },      
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Picasso", "Van Gogh", "Leonardo da Vinci", "Rembrandt"],
+    "correct": "Leonardo da Vinci"
+  },
+  {
+    "question": "Capital of Japan?",
+    "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+    "correct": "Tokyo"
+  },
+  {
+    "question": "Longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correct": "Nile"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Einstein"],
+    "correct": "Alexander Fleming"
+  },
+  {
+    "question": "Largest mammal?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+    "correct": "Blue Whale"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Edison", "Alexander Graham Bell", "Tesla", "Marconi"],
+    "correct": "Alexander Graham Bell"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["7", "5", "6", "8"],
+    "correct": "7"
+  },
+  {
+    "question": "Smallest planet in our solar system?",
+    "options": ["Venus", "Mars", "Mercury", "Pluto"],
+    "correct": "Mercury"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "correct": "Einstein"
+  },
+  {
+    "question": "Which is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Silver"],
+    "correct": "Diamond"
+  },
+  {
+    "question": "Largest desert in the world?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+    "correct": "Sahara"
+  },
+  {
+    "question": "Tallest mountain in the world?",
+    "options": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+    "correct": "Everest"
+  },
+  {
+    "question": "How many colors are there in a rainbow?",
+    "options": ["6", "7", "8", "5"],
+    "correct": "7"
+  },
+  {
+    "question": "First man on the moon?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+    "correct": "Neil Armstrong"
+  },
+  {
+    "question": "Chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "H2"],
+    "correct": "H2O"
+  },
+  {
+    "question": "Which metal is the best conductor of electricity?",
+    "options": ["Gold", "Copper", "Silver", "Aluminum"],
+    "correct": "Silver"
+  },
+  {
+    "question": "Which vitamin is produced when a person is exposed to sunlight?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin B12"],
+    "correct": "Vitamin D"
+  },
+  {
+    "question": "Fastest bird in the world?",
+    "options": ["Peregrine Falcon", "Eagle", "Hawk", "Sparrow"],
+    "correct": "Peregrine Falcon"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+    "correct": "Nitrogen"
+  },
+  {
+    "question": "Who is known as the Father of Computers?",
+    "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Bill Gates"],
+    "correct": "Charles Babbage"
+  },
+  {
+    "question": "The Great Wall of China was built to protect against which invaders?",
+    "options": ["Huns", "Mongols", "Persians", "Romans"],
+    "correct": "Mongols"
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "options": ["Liver", "Heart", "Lung", "Kidney"],
+    "correct": "Liver"
+  },
+  {
+    "question": "How many planets are there in our solar system?",
+    "options": ["7", "9", "8", "10"],
+    "correct": "8"
+  },
+  {
+    "question": "Which is the largest continent by area?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "correct": "Asia"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["Tiger", "Elephant", "Lion", "Cheetah"],
+    "correct": "Lion"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": ["Edison", "Tesla", "Bell", "Fleming"],
+    "correct": "Edison"
+  },
+  {
+    "question": "Which is the longest bone in the human body?",
+    "options": ["Femur", "Tibia", "Humerus", "Radius"],
+    "correct": "Femur"
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correct": "Venus"
+  },
+  {
+    "question": "Which continent is known as the Dark Continent?",
+    "options": ["Africa", "Asia", "Europe", "South America"],
+    "correct": "Africa"
+  },
+  {
+    "question": "Which organ purifies blood in the human body?",
+    "options": ["Liver", "Heart", "Kidney", "Lung"],
+    "correct": "Kidney"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Saturn", "Earth", "Jupiter", "Neptune"],
+    "correct": "Jupiter"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "John Adams", "Abraham Lincoln"],
+    "correct": "George Washington"
+  },
+  {
+    "question": "Which language is the most spoken worldwide?",
+    "options": ["Spanish", "Hindi", "Mandarin Chinese", "English"],
+    "correct": "Mandarin Chinese"
+  },
+  {
+    "question": "Which animal is known as the Ship of the Desert?",
+    "options": ["Camel", "Elephant", "Horse", "Kangaroo"],
+    "correct": "Camel"
+  },
+  {
+    "question": "Which instrument measures earthquakes?",
+    "options": ["Barometer", "Seismograph", "Anemometer", "Thermometer"],
+    "correct": "Seismograph"
+  },
+  {
+    "question": "Which is the smallest bird in the world?",
+    "options": ["Parrot", "Hummingbird", "Sparrow", "Robin"],
+    "correct": "Hummingbird"
+  },
+  {
+    "question": "Who is known as the Iron Man of India?",
+    "options": ["Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Subhas Chandra Bose"],
+    "correct": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "question": "Which continent is known as the Land of Kangaroos?",
+    "options": ["Africa", "Australia", "South America", "Asia"],
+    "correct": "Australia"
+  },
+  {
+    "question": "Which is the hottest planet in our solar system?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "correct": "Venus"
+  },
+  {
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": ["Nitrous Oxide", "Carbon Dioxide", "Oxygen", "Hydrogen"],
+    "correct": "Nitrous Oxide"
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Pancreas", "Heart", "Stomach"],
+    "correct": "Pancreas"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Mark Zuckerberg"],
+    "correct": "Tim Berners-Lee"
+  },
+  {
+    "question": "Which bird is known for its colorful feathers and ability to mimic sounds?",
+    "options": ["Peacock", "Parrot", "Sparrow", "Owl"],
+    "correct": "Parrot"
+  },
+  {
+    "question": "Which element is the most abundant in the Earth's crust?",
+    "options": ["Carbon", "Oxygen", "Silicon", "Hydrogen"],
+    "correct": "Oxygen"
+  },
+  {
+    "question": "Which planet is known as the Gas Giant?",
+    "options": ["Mars", "Jupiter", "Earth", "Venus"],
+    "correct": "Jupiter"
+  },
+  {
+    "question": "Which is the largest gland in the human body?",
+    "options": ["Thyroid", "Pancreas", "Liver", "Adrenal"],
+    "correct": "Liver"
+  },
+  {
+    "question": "Which is the most widely spoken language in South America?",
+    "options": ["Portuguese", "English", "French", "Spanish"],
+    "correct": "Spanish"
+  },
+  {
+    "question": "Which metal is known as the King of Metals?",
+    "options": ["Gold", "Silver", "Platinum", "Iron"],
+    "correct": "Gold"
+  }
+]

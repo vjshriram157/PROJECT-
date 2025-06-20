@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BloodyQuiz • Code Blooded</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <audio id="background-music" src="assets/bgsong.mp3" loop autoplay></audio>
+    <h1>Bloody Quiz<button id="sound-toggle">
+        <img id="sound-icon" src="assets/speaker.png" alt="speaker">
+    </button></h1>
+    <center><div id="player"></div></center>
+
+
+    <div id="game-container">
+        <div id="board"></div>
+        <div id="quiz-container">
+            <p id="timer"></p>
+            <p id="question">Waiting for question...</p>
+                <div id="options"></div>
+        </div>
+        
+    </div>
+
+    <script type="module" src="script.js"></script>
+    
+    <footer><p>© A Code Blooded Product</p></footer>
+</body>
+
+</html>
